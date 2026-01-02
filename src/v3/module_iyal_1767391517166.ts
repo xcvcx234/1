@@ -1,0 +1,1 @@
+const util_iyal = (d: any) => d;
